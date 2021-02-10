@@ -1,0 +1,27 @@
+{
+  "name": "guard",
+  "version": "0.0.1",
+  "description": "odies.code",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "odies"
+  },
+  "keywords": [
+    "odies"
+  ],
+  "author": "odies",
+  "license": "ISC",
+  "dependencies": {
+    "database": "0.0.2",
+    "discord.js": "^12.5.1",
+    "index.js": "0.0.3",
+    "node": "^15.8.0",
+    "odies.database": "^1.1.9",
+    "odies.handlers": "^1.0.7",
+    "wio.db": "^4.0.10"
+  }
+}
